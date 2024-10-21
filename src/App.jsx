@@ -10,6 +10,7 @@ function App() {
       
       <Header></Header>
       <Bottles></Bottles>
+      <h1>Bottle</h1>
       
     </>
   )
